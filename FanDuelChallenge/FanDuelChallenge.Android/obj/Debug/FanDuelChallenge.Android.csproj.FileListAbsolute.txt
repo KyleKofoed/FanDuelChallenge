@@ -3,7 +3,11 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\b
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.Android.apk
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.Android-Signed.apk
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.xml
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\FanDuelChallenge.Android.csprojResolveAssemblyReference.cache
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\FanDuelChallenge.Android.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\FanDuelChallenge.Android.pdb
@@ -21,7 +25,3 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\b
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.Android.dll.mdb
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.Android.dll.mdb
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.dll.mdb
-C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.dll
-C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.dll
-C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.xml
-C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.xml

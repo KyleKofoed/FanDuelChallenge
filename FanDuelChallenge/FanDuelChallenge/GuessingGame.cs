@@ -19,22 +19,24 @@ namespace FanDuelChallenge
             SetUpTurn();
         }
 
-        private void SetUpTurn()
+        public void SetUpTurn()
         {
             int firstIndex =0, secondIndex=0;
             if (Players.Count() >= 2) {
-                while (firstIndex != secondIndex)
+                while (firstIndex == secondIndex)
                 {
                     Random random = new Random();
                     firstIndex = random.Next(Players.Count());
                     secondIndex = random.Next(Players.Count());
                 }
             }
+            Player1 = Players.ElementAt(firstIndex);
+            Player2 = Players.ElementAt(secondIndex);
         }
         
-        public bool CanContinue()
+        public bool CanContinue
         {
-            return CorrectCount > CorrectCount;
+            get { return maxCount > CorrectCount; }
         }
         public bool CheckGuess(Player guessedPlayer)
         {
