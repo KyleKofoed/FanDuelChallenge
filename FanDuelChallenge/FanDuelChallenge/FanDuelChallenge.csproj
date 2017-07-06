@@ -31,8 +31,8 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="FanDuelGuessLogic.cs" />
     <Compile Include="FanDuelJsonHttpClient.cs" />
+    <Compile Include="GuessingGame.cs" />
     <Compile Include="PlayerJson.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

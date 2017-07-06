@@ -12,8 +12,6 @@ namespace FanDuelChallenge.Droid
 	[Activity (Label = "FanDuelChallenge.Android", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 1;
-
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -27,6 +25,8 @@ namespace FanDuelChallenge.Droid
             TextView FirstPlayerNameTextView = FindViewById<TextView>(Resource.Id.FirstPlayerNameTextView);
             ImageButton SecondPlayerButton = FindViewById<ImageButton>(Resource.Id.SecondPlayerImageButton);
             TextView SecondPlayerNameTextView = FindViewById<TextView>(Resource.Id.SecondPlayerNameTextView);
+
+
             
 		}
 	}

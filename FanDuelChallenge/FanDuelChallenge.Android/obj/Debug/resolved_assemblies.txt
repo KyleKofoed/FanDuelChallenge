@@ -11,6 +11,7 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\o
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Collections.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Linq.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
@@ -29,7 +30,6 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\o
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Text.Encoding.dll
-C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Threading.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll

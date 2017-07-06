@@ -24,7 +24,7 @@ namespace FanDuelChallenge.Tests
             };
 
             List<Player> players = new List<Player> { firstPlayer, secondPlayer };
-            IEnumerable<Player> HighestPlayers = FanDuelGuessLogic.GetPlayerWithHighestFPPG(players);
+            IEnumerable<Player> HighestPlayers = GuessingGame.GetPlayerWithHighestFPPG(players);
 
             Assert.True(HighestPlayers.Contains(firstPlayer), "First player was not a winner");
             Assert.True(!HighestPlayers.Contains(secondPlayer), "Second player was not a loser");
@@ -44,7 +44,7 @@ namespace FanDuelChallenge.Tests
             };
 
             List<Player> players = new List<Player> { firstPlayer, secondPlayer };
-            IEnumerable<Player> HighestPlayers = FanDuelGuessLogic.GetPlayerWithHighestFPPG(players);
+            IEnumerable<Player> HighestPlayers = GuessingGame.GetPlayerWithHighestFPPG(players);
 
             Assert.True(!HighestPlayers.Contains(firstPlayer), "First player was a winner");
             Assert.True(HighestPlayers.Contains(secondPlayer), "Second player was a loser");
@@ -64,7 +64,7 @@ namespace FanDuelChallenge.Tests
             };
 
             List<Player> players = new List<Player> { firstPlayer, secondPlayer };
-            IEnumerable<Player> HighestPlayers = FanDuelGuessLogic.GetPlayerWithHighestFPPG(players);
+            IEnumerable<Player> HighestPlayers = GuessingGame.GetPlayerWithHighestFPPG(players);
 
             //everyone is a winner!
             Assert.True(HighestPlayers.Contains(firstPlayer)&& HighestPlayers.Contains(secondPlayer), "One of the players was a loser");
