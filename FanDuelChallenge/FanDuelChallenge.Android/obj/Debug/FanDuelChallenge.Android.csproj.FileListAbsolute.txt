@@ -21,3 +21,7 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\b
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.Android.dll.mdb
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.Android.dll.mdb
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.dll.mdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\System.Net.Http.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\Newtonsoft.Json.xml

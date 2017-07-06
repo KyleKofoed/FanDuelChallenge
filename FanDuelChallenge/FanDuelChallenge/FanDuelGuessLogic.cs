@@ -14,7 +14,7 @@ namespace FanDuelChallenge
         /// <returns></returns>
         public static IEnumerable<Player> GetPlayerWithHighestFPPG(IEnumerable<Player> players)
         {
-            double maxFppg = players.Max(x => x.FPPG);
+            double? maxFppg = players.Max(x => x.FPPG);
             return players.Where(x => x.FPPG == maxFppg);
         }
     }

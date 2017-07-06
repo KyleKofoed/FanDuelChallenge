@@ -3,3 +3,7 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.csprojResolveAssemblyReference.cache
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\System.Net.Http.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\System.Net.Http.xml

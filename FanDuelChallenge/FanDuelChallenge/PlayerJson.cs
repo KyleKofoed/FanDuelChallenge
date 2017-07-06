@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 namespace FanDuelChallenge
 {
-    public class FanDuelPlayerJson
+    public class PlayerJson
     {
-        public FanDuelPlayerJson()
+        public PlayerJson()
         { }
-        List<Player> Players { get; set;}
+        public List<Player> Players { get; set;}
         
 
 

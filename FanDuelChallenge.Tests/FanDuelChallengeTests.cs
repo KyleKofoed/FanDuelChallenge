@@ -69,7 +69,15 @@ namespace FanDuelChallenge.Tests
             //everyone is a winner!
             Assert.True(HighestPlayers.Contains(firstPlayer)&& HighestPlayers.Contains(secondPlayer), "One of the players was a loser");
             
+        }
 
+        [Fact]
+        async public void JsonAndModelAreSynced()
+        {
+            FanDuelJsonHttpClient apiClient = new FanDuelJsonHttpClient();
+            IEnumerable<Player> players =  await apiClient.ReadPlayers();
+            Assert.True(players?.Count() > 0);
+                
         }
     }
 }

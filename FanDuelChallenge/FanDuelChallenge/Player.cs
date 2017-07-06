@@ -11,7 +11,7 @@ namespace FanDuelChallenge
         /// <summary>
         /// FanDuel Points Per Game
         /// </summary>
-        public double FPPG { get; set;}
+        public double? FPPG { get; set;}
     }
 
     public class Images

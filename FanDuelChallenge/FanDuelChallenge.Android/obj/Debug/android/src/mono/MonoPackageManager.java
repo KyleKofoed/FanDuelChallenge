@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "FanDuelChallenge.Android.dll" comes first in this list. */
 		"FanDuelChallenge.Android.dll",
 		"FanDuelChallenge.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

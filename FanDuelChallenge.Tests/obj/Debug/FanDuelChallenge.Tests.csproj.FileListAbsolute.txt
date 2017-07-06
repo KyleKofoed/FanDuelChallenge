@@ -15,3 +15,5 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelCha
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.pdb
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\Newtonsoft.Json.xml
