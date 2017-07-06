@@ -25,7 +25,7 @@ namespace FanDuelChallenge
                 response.EnsureSuccessStatusCode();
                 string playerJsonString = await response.Content.ReadAsStringAsync();
                 PlayerJson playerJson = JsonConvert.DeserializeObject<PlayerJson>(playerJsonString);
-                //filter out players with null fppg values
+                //filter out players with null fppg
                 return playerJson.Players.Where(x=>x.FPPG.HasValue);
             }
             catch (Exception ex)
