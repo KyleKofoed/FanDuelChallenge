@@ -13,3 +13,5 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.exec
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.csprojResolveAssemblyReference.cache
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.dll
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.pdb

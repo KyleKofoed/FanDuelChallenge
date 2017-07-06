@@ -17,3 +17,7 @@ C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\o
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\R.cs.flag
 C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\uploadflags.txt
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.dll.mdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\bin\Debug\FanDuelChallenge.Android.dll.mdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.Android.dll.mdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Android\obj\Debug\android\assets\FanDuelChallenge.dll.mdb
