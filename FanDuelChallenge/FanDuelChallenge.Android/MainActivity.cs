@@ -83,15 +83,17 @@ namespace FanDuelChallenge.Droid
                 alertTitle = "You are wrong...";
             }
 
-            ShowAlert(alertTitle, $"{player.FirstName} {player.LastName} has {player.FPPG} points.");
             if (guessingGame.CanContinue)
             {
+
+                ShowAlert(alertTitle, $"{player.FirstName} {player.LastName} has {player.FPPG} points.");
                 guessingGame.SetUpTurn();
                 SetUpUiForNextRound();
             }
             else
             {
                 EndGame();
+                ShowAlert(alertTitle, $"{player.FirstName} {player.LastName} has {player.FPPG} points.");
             }
         }
 
@@ -108,14 +110,20 @@ namespace FanDuelChallenge.Droid
         private Bitmap GetImageBitmapFromUrl(string url)
         {
             Bitmap imageBitmap = null;
-
-            using (var webClient = new WebClient())
+            try
             {
-                var imageBytes = webClient.DownloadData(url);
-                if (imageBytes != null && imageBytes.Length > 0)
+                using (var webClient = new WebClient())
                 {
-                    imageBitmap = BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
+                    var imageBytes = webClient.DownloadData(url);
+                    if (imageBytes != null && imageBytes.Length > 0)
+                    {
+                        imageBitmap = BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
+                    }
                 }
+            }
+            catch(Exception ex)
+            {
+               //TODO add exception handeling
             }
 
             return imageBitmap;
