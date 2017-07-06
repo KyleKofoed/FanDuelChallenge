@@ -1,0 +1,4 @@
+FanDuelChallenge.Droid.MainActivity, FanDuelChallenge.Android;md5028de37073730f2ce9125ff719793e69.MainActivity
+FanDuelChallenge.Droid.MainActivity, FanDuelChallenge.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5028de37073730f2ce9125ff719793e69.MainActivity
+FanDuelChallenge.Droid.MainActivity;md5028de37073730f2ce9125ff719793e69.MainActivity
+fanduelchallenge.droid.MainActivity;md5028de37073730f2ce9125ff719793e69.MainActivity

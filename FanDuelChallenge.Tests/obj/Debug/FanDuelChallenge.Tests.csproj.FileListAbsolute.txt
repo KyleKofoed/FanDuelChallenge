@@ -1,0 +1,15 @@
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.abstractions.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.Tests.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\FanDuelChallenge.Tests.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.assert.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.core.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.assert.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.core.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.csprojResolveAssemblyReference.cache
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge.Tests\obj\Debug\FanDuelChallenge.Tests.pdb

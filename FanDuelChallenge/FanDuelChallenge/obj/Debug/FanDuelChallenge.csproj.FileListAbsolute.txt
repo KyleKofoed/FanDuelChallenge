@@ -1,0 +1,5 @@
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\FanDuelChallenge.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\bin\Debug\FanDuelChallenge.pdb
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.csprojResolveAssemblyReference.cache
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.dll
+C:\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\FanDuelChallenge\obj\Debug\FanDuelChallenge.pdb
